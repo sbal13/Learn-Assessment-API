@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  module: MyString
+  subject: MyString
+  description: MyText
+  repo: MyString
+  protected: false
+  time: 1
+
+two:
+  module: MyString
+  subject: MyString
+  description: MyText
+  repo: MyString
+  protected: false
+  time: 1
